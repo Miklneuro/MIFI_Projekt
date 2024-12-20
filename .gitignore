@@ -1,0 +1,5 @@
+plant_images.zip
+plant_images/
+venv/
+__pycache__/
+*.pyc
